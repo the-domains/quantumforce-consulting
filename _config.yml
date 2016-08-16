@@ -1,15 +1,15 @@
-typography_spectrum: 0.7530762616079301
+typography_spectrum: 0.5332100361119956
 color:
-  brandStrength: 0.020842008525505662
-  lightness: 0.7404876814689487
-  saturation: 0.8333666836842895
-  rhythmicContrast: 0.6622403252404183
+  brandStrength: 0.6812174958176911
+  lightness: 0.42391525441780686
+  saturation: 0.18408720567822456
+  rhythmicContrast: 0.11564647313207388
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.8088557703886181
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+layout_spectrum: 0.10496588656678796
 name: QuantumForce Consulting
 title: "QuantumForce Consulting\_"
